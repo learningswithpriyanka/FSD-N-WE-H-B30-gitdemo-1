@@ -1,6 +1,6 @@
 const a = 4;
 
-{
+function demo (){
   const a = 10;
   console.log("a: " + a);
 }
