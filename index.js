@@ -1,7 +1,7 @@
-const a = 4;
+var a = 4;
 
 function demo (){
-  const a = 10;
+  var a = 10;
   console.log("a: " + a);
 }
 console.log("a: " + a);
